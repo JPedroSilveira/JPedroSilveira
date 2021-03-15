@@ -8,7 +8,7 @@ Be my guest, know my projects and suggest new ones. <img width="24px" src="https
 
 😄 Pronouns: he/him/his
 
-⚡ Fun fact: I'm current loving to study parallel computing and my favorite language is javascript
+⚡ Fun fact: I'm current loving to study parallel computing and my favorite language is Javascript
 
 Linkedin -> https://www.linkedin.com/in/jo%C3%A3o-pedro-s-39abb4115/
 
