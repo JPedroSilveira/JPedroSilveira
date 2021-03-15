@@ -4,7 +4,7 @@ I fell in love with computation in elementary school when I started to play comp
 
 Although studying from architecture to web development I am currently focused in PWA development.
 
-Be my guest, know my projects and suggest new ones. <img width="28px" src="https://img.icons8.com/plasticine/100/000000/idea.png"/>
+Be my guest, know my projects and suggest new ones. <img width="24px" src="https://img.icons8.com/plasticine/100/000000/idea.png"/>
 
 😄 Pronouns: he/him/his
 
