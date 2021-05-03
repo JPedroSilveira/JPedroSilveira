@@ -10,10 +10,10 @@ Be my guest, know my projects and suggest new ones. <img width="24px" src="https
 
 ⚡ Fun fact: I'm current loving to study parallel computing and my favorite language is Javascript
 
-Linkedin -> https://www.linkedin.com/in/jo%C3%A3o-pedro-s-39abb4115/
+- [Linkedin](https://www.linkedin.com/in/jo%C3%A3o-pedro-s-39abb4115/)
 
-Spotify (It's a mess) -> https://open.spotify.com/user/21nhwoarbqw26ryoauqfrot5i?si=8e8FSM77RUuQIUV_76S_bg
+- [Spotify](https://open.spotify.com/user/21nhwoarbqw26ryoauqfrot5i?si=8e8FSM77RUuQIUV_76S_bg) (It's a mess)
 
-Gmail (Quick responses) -> jpedross1999@gmail.com
+- [Gmail](jpedross1999@gmail.com) (Quick responses)
 
-Amazing projects (including a PWA) -> https://github.com/petcomputacaoufrgs
+- [Amazing projects](https://github.com/petcomputacaoufrgs) (including PWAs)
