@@ -20,7 +20,7 @@ Social:
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white&link=https://open.spotify.com/user/21nhwoarbqw26ryoauqfrot5i?si=8e8FSM77RUuQIUV_76S_bg)](https://open.spotify.com/user/21nhwoarbqw26ryoauqfrot5i?si=8e8FSM77RUuQIUV_76S_bg)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-pedro-s-39abb4115/)](https://www.linkedin.com/in/jo%C3%A3o-pedro-s-39abb4115/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JPedroSilveira&show_icons=true&theme=midnight-purple&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JPedroSilveira&show_icons=true&theme=midnight-purple&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Techs:
 
