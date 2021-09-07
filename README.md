@@ -8,7 +8,7 @@ Be my guest, know my projects and suggest new ones. <img width="24px" src="https
 
 😄 Pronouns: he/him/his
 
-Amazing Projects (including PWAs):
+Amazing projects (including PWAs):
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/petcomputacaoufrgs/)](https://github.com/petcomputacaoufrgs/)
 
